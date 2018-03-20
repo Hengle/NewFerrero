@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3132090654
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/debug.u3d
+      Dependencies: {}
+    Info_1:
+      Name: ui/webexporler.u3d
+      Dependencies: {}
+    Info_2:
+      Name: ui/mainscene.u3d
+      Dependencies: {}
+    Info_3:
+      Name: ui/projective.u3d
+      Dependencies: {}
+    Info_4:
+      Name: ui/login.u3d
+      Dependencies: {}

@@ -1,0 +1,13 @@
+StreamingAssets     3132090654
+StreamingAssets.manifest   3132090654
+version.txt  1521530317
+ui/debug.u3d     3139230024
+ui/debug.u3d.manifest   3139230024
+ui/login.u3d     929262440
+ui/login.u3d.manifest   929262440
+ui/mainscene.u3d     3965438464
+ui/mainscene.u3d.manifest   3965438464
+ui/projective.u3d     2409689457
+ui/projective.u3d.manifest   2409689457
+ui/webexporler.u3d     1017729033
+ui/webexporler.u3d.manifest   1017729033

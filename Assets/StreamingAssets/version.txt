@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><plist><dict><key>clientversion</key><string /><key>gameversion</key><string /><key>clientupdateurl</key><string /><key>packageurl</key><string /><key>apksize</key><string /></dict></plist>
