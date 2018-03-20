@@ -11,7 +11,7 @@ namespace EasyAR
         public bool isStart = true;
 		void Start () 
 		{
-			GameObject button = GameObject.Find("Canvas/Pause");
+			GameObject button = GameObject.Find("Canvas/Pause");//
 //			EventTriggerListener.Get(button.gameObject).onClick = OnButtonClick;
 		}
 
